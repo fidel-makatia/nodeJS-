@@ -1,0 +1,3 @@
+
+exports.myText = 'Hello Fidel';
+
